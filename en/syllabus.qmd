@@ -65,8 +65,17 @@ See the [AI Protocol](ai-protocol.qmd) page for the full version.
 
 ## Course Evaluation
 
-1. **40% Class participation**: Studying this course is a memorable process of discovery between you and your classmates. This class requires extensive participation. For it to be successful, you must be prepared by having done the reading and considered the questions posed in the assignment. The instructor will encourage you to contribute regularly and succinctly to each discussion. You will also be encouraged to disagree constructively with your fellow students and the instructor. Attendance at every class is strongly expected; occasional absence due to necessary personal issues is acceptable.
-2. **60% Final exam**: An **in-class closed-book exam** evaluating your comprehensive ability to use economic theory to solve real-life managerial problems. 
+1. **20% Class participation**: Studying this course is a memorable process of discovery between you and your classmates. This class requires extensive participation. For it to be successful, you must be prepared by having done the reading and considered the questions posed in the assignment. The instructor will encourage you to contribute regularly and succinctly to each discussion. You will also be encouraged to disagree constructively with your fellow students and the instructor. Attendance at every class is strongly expected; occasional absence due to necessary personal issues is acceptable.
+2. **20% AI sparring assignments**: Selected assignments require you to use the course AI skills and submit an **unedited exported chat transcript** together with a `/reflection-log` summary. You are assessed not on final answers but on the quality of questioning and critical thinking: whether your questions are precise and probing, whether you examine hidden assumptions, how you respond to AI challenges, and whether your final adjudication is well-reasoned. Tampering with transcripts is treated as academic misconduct. See the [AI Skills](../skills.qmd) page for details.
+3. **60% Final exam**: An **in-class closed-book exam** evaluating your comprehensive ability to use economic theory to solve real-life managerial problems.
+
+## AI Skills Co-creation
+
+Nine AI sparring skills (e.g., Socratic Mirror, Devil's Advocate, Sanity Checker) accompany this course. They challenge your reasoning — they never give you answers:
+
+- **Install**: see the [AI Skills](../skills.qmd) page for a one-shot install prompt for Trae Code / Trae SOLO (Gitee mirror with GitHub fallback).
+- **Bug bounty**: if a skill contains an error, a knowledge gap, or fails to guide properly, submit an issue with the template on the skills page. Accepted reports earn **RMB 10–100 cash rewards** plus a course-credit bonus.
+- **Living materials**: skills evolve weekly as the course progresses and through your feedback — re-run the install prompt or `git pull` to stay current.
 
 ## Session Overview
 
@@ -83,7 +92,7 @@ The most recommended reading materials are written in the form of "Author + chap
 | 7 | 11/23 | Pricing Strategy | Baye 8 |
 | 8 | 11/30  | Final Exam | — |
 
-## Reading List (To be updated)
+## Reading List (To be updated along the teaching)
 
 The best reference are the course website and AI! (* means important)
 
