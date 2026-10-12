@@ -1,0 +1,29 @@
+---
+title: "课件下载 · Slide Downloads"
+---
+
+# 往年课件下载（2025 Student Version）
+
+这里是 2025 学年 iMBA 班的学生版课件（PDF 格式），供同学们课前预习与课后复习参考。
+
+::: {.callout-tip appearance="simple"}
+## 下载渠道说明
+
+- **Gitee 链接（国内推荐）**：托管在 Gitee 镜像仓库，国内访问速度快。
+- **GitHub 链接**：海外同学或网络条件较好时使用。
+:::
+
+## 各讲课件
+
+| Lecture | 课件主题 | Gitee 下载（国内推荐） | GitHub 下载 |
+|---|---|---|---|
+| L1 | Fundamentals 基本概念与原理 | [PDF · 2.0M](https://gitee.com/zhiyuanryanchen/managerial-economics/raw/main/downloads/ME-L1-Fundamentals-Student-2025New.pdf) | [PDF](https://raw.githubusercontent.com/zhiyuanryanchen/managerial-economics/main/downloads/ME-L1-Fundamentals-Student-2025New.pdf) |
+| L2 | Demand & Supply 需求与供给 | [PDF · 1.8M](https://gitee.com/zhiyuanryanchen/managerial-economics/raw/main/downloads/ME-L2-DemandSupply-Student-2025New.pdf) | [PDF](https://raw.githubusercontent.com/zhiyuanryanchen/managerial-economics/main/downloads/ME-L2-DemandSupply-Student-2025New.pdf) |
+| L3 | Quantitative Demand Analysis 需求的定量分析 | [PDF · 1.1M](https://gitee.com/zhiyuanryanchen/managerial-economics/raw/main/downloads/ME-L3-QuantitativeDemandAnalysis-Student-2025New.pdf) | [PDF](https://raw.githubusercontent.com/zhiyuanryanchen/managerial-economics/main/downloads/ME-L3-QuantitativeDemandAnalysis-Student-2025New.pdf) |
+| L5 | Cost Analysis 成本分析 | [PDF · 1.4M](https://gitee.com/zhiyuanryanchen/managerial-economics/raw/main/downloads/ME-L5-CostAnalysis-Student-2025New.pdf) | [PDF](https://raw.githubusercontent.com/zhiyuanryanchen/managerial-economics/main/downloads/ME-L5-CostAnalysis-Student-2025New.pdf) |
+| L6 | Firm Organization 企业组织分析 | [PDF · 0.9M](https://gitee.com/zhiyuanryanchen/managerial-economics/raw/main/downloads/ME-L6-FirmOrganizationAnalysis-Student-2025New.pdf) | [PDF](https://raw.githubusercontent.com/zhiyuanryanchen/managerial-economics/main/downloads/ME-L6-FirmOrganizationAnalysis-Student-2025New.pdf) |
+| L7 | Firm Behavior & Market Structure 市场结构与企业行为 | [PDF · 0.9M](https://gitee.com/zhiyuanryanchen/managerial-economics/raw/main/downloads/ME-L7-FirmBehavior_MarketStructure-Student-2025New.pdf) | [PDF](https://raw.githubusercontent.com/zhiyuanryanchen/managerial-economics/main/downloads/ME-L7-FirmBehavior_MarketStructure-Student-2025New.pdf) |
+
+## Slide Downloads (2025 Student Version)
+
+These are the student-version slides (PDF) from the 2025 iMBA class, provided for preview and review. For faster access within mainland China, use the Gitee links; the GitHub links are an alternative for overseas access.

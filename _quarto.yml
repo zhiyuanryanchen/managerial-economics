@@ -1,6 +1,8 @@
 project:
   type: website
   output-dir: _site
+  resources:
+    - downloads/
 
 website:
   title: "管理经济学 · Managerial Economics"
@@ -15,6 +17,8 @@ website:
     left:
       - href: index.qmd
         text: "首页 · Home"
+      - href: downloads.qmd
+        text: "课件下载 · Downloads"
       - text: "中文"
         menu:
           - href: zh/index.qmd
