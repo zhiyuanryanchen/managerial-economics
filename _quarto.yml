@@ -1,0 +1,85 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "管理经济学 · Managerial Economics"
+  site-url: ""
+  description: "陈志远 · 管理经济学课程网站"
+  favicon: ""
+
+  navbar:
+    background: primary
+    foreground: light
+    pinned: true
+    left:
+      - href: index.qmd
+        text: "首页 · Home"
+      - text: "中文"
+        menu:
+          - href: zh/index.qmd
+            text: "课程主页"
+          - href: zh/syllabus.qmd
+            text: "课程大纲"
+          - href: zh/ai-protocol.qmd
+            text: "人机协作协议"
+          - text: "—— 各讲内容 ——"
+          - href: zh/l1-fundamentals.qmd
+            text: "第 1 讲 · 基本概念与原理"
+          - href: zh/l2-demand-supply.qmd
+            text: "第 2 讲 · 需求、供给与均衡"
+          - href: zh/l3-elasticity.qmd
+            text: "第 3 讲 · 需求的定量分析"
+          - href: zh/l4-production.qmd
+            text: "第 4 讲 · 生产分析"
+          - href: zh/l5-cost.qmd
+            text: "第 5 讲 · 成本分析"
+          - href: zh/l6-firm-organization.qmd
+            text: "第 6 讲 · 企业组织分析"
+          - href: zh/l7-market-structure.qmd
+            text: "第 7 讲 · 市场结构与企业行为"
+      - text: "English"
+        menu:
+          - href: en/index.qmd
+            text: "Course Home"
+          - href: en/syllabus.qmd
+            text: "Syllabus"
+          - href: en/ai-protocol.qmd
+            text: "Human–AI Protocol"
+          - text: "—— Lectures ——"
+          - href: en/l1-fundamentals.qmd
+            text: "L1 · Fundamentals"
+          - href: en/l2-demand-supply.qmd
+            text: "L2 · Demand, Supply & Equilibrium"
+          - href: en/l3-elasticity.qmd
+            text: "L3 · Quantitative Demand Analysis"
+          - href: en/l4-production.qmd
+            text: "L4 · Production Analysis"
+          - href: en/l5-cost.qmd
+            text: "L5 · Cost Analysis"
+          - href: en/l6-firm-organization.qmd
+            text: "L6 · Firm Organization"
+          - href: en/l7-market-structure.qmd
+            text: "L7 · Market Structure"
+
+  search:
+    location: navbar
+    type: overlay
+
+  page-footer:
+    center:
+      - text: "© 2026 陈志远 · 管理经济学课程网站"
+        href: "mailto:chenzhiyuan@rmbs.ruc.edu.cn"
+
+format:
+  html:
+    theme:
+      - cosmo
+      - custom.scss
+    css: styles.css
+    toc: true
+    toc-depth: 3
+    number-sections: false
+    code-fold: false
+    code-copy: false
+    smooth-scroll: true

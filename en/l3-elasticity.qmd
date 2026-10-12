@@ -1,0 +1,95 @@
+---
+title: "L3 · Quantitative Demand Analysis"
+---
+
+<span class="capability-chip chip-mid">Middle · Detect problems</span>
+
+# Lecture 3 · Quantitative Demand Analysis
+
+## Opening Discussion
+
+**Bob's PPT business.** Bob designs professional PPTs at pptmaster.com. He charges 200 yuan per file (with 100 pages) and currently polishes 12 files per month. His costs are rising (including the opportunity cost of his time), so he considers raising the price to 250 yuan. The law of demand states that he won't sell as many services if he raises his price.
+
+**Question**: How will Bob's revenue change? Is raising the price necessarily a mistake?
+
+## Learning Objectives
+
+- Understand the definition and calculation of the price elasticity of demand (midpoint method).
+- Master the determinants of demand elasticity.
+- Understand the relationship between elasticity and total revenue / marginal revenue.
+- Learn cross-price elasticity and income elasticity.
+
+## Core Conceptual Framework
+
+### 1. The Basic Idea of Elasticity
+
+"Elasticity" is a term borrowed from physics (elasticity of a spring, elastic skin…). It measures **how much one variable responds to changes in another variable**.
+
+- Example: elasticity measures how much demand for Bob's PPT services will fall if he raises his price.
+- Example: elasticity measures how much demand for properties will drop if housing price drops by 10%.
+
+### 2. Price Elasticity of Demand
+
+The own price elasticity of demand measures the responsiveness of quantity demanded to a change in the good's own price:
+
+$$E_{Q,P} = \frac{\% \Delta Q_d}{\% \Delta P}$$
+
+- It measures **how sensitive buyers are to the product's price**.
+- Since P and Q move in opposite directions, elasticity is negative; by convention we drop the minus sign and report it as positive.
+
+### 3. The Midpoint Method
+
+To calculate percentage changes, we use the midpoint method to avoid bias from the choice of starting point:
+
+$$\% \Delta = \frac{\text{End value} - \text{Start value}}{\text{Midpoint}}$$
+
+where midpoint = (end value + start value) / 2. The bias of this method becomes more severe as the gap between end and start values widens.
+
+### 4. Determinants of Demand Elasticity
+
+- Availability of close substitutes: more substitutes → more elastic.
+- Necessities vs. luxuries: necessities are less elastic; luxuries are more elastic.
+- Definition of the market: narrowly defined markets are more elastic.
+- Time horizon: demand is more elastic over longer time horizons.
+
+### 5. Elasticity and Total Revenue
+
+- **Elastic demand (|E| > 1)**: price rise → revenue falls; price fall → revenue rises.
+- **Inelastic demand (|E| < 1)**: price rise → revenue rises; price fall → revenue falls.
+- **Unit elastic (|E| = 1)**: price change leaves revenue unchanged.
+
+### 6. Other Demand Elasticities
+
+| Elasticity | Formula | Sign |
+|---|---|---|
+| Cross-price elasticity | %ΔQ_A / %ΔP_B | Positive for substitutes, negative for complements |
+| Income elasticity | %ΔQ / %ΔI | Positive for normal goods, negative for inferior goods |
+
+## Key Terms
+
+| Term | Definition |
+|---|---|
+| Price Elasticity of Demand | Responsiveness of quantity demanded to price |
+| Midpoint Method | A way to compute percentage changes using the average |
+| Elastic | |E| > 1 |
+| Inelastic | |E| < 1 |
+| Unit Elastic | |E| = 1 |
+| Cross-Price Elasticity | Responsiveness of Q of good A to price of good B |
+| Income Elasticity | Responsiveness of Q to income |
+| Marginal Revenue | Change in total revenue from an additional unit sold |
+
+## Human–AI Collaboration Card
+
+::: ai-card
+<span class="ai-card-title">🎭 Role: Sanity Checker</span>
+<span class="ai-card-role">Trigger: after elasticity calculations</span>
+
+**Challenge question**: Return to Bob's case. Suppose you estimate the price elasticity of demand for Bob's PPT service as |E| = 1.5. Independently calculate his expected quantity sold and total revenue if he raises the price to 250 yuan. Then let AI independently recalculate and check that your units and assumptions match.
+
+> Remember: Human produces → AI challenges → Human adjudicates.
+:::
+
+## Readings
+
+- Thomas & Maurice, *Managerial Economics* (12th ed.): Chapter 3
+- Baye & Prince, *Managerial Economics* (10th ed.): Chapter 6

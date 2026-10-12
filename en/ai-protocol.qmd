@@ -1,0 +1,45 @@
+---
+title: "Human–AI Collaboration Protocol"
+---
+
+# Human–AI Collaboration Protocol
+
+This course integrates AI into teaching — **without handing answers over to AI**.
+
+::: {.callout-important appearance="minimal" icon="false"}
+## The Thinking Rule
+
+**Human produces → AI challenges → Human adjudicates.**
+
+The right to produce and to adjudicate always stays with the human. AI may only take over the "challenge" step.
+:::
+
+## Core Principles
+
+| Principle | Meaning |
+|---|---|
+| AI **does not think** for you | You must first produce a judgment, evidence, and reasoning before letting AI in |
+| AI is only a challenger | AI plays the devil's advocate, the mirror, the sanity checker — never an answer machine |
+| Human keeps final say | For every AI suggestion, you explain why you accept or reject it, and record your reason |
+
+## Five Sparring Roles
+
+All agents are designed as "sparring / challenging" types — never "answer" types.
+
+| Role | Trigger | Function | Thinking step guarded |
+|---|---|---|---|
+| **Socratic Mirror** | When you ask "is this right?" | Only asks questions, never gives answers | Produce + challenge |
+| **Devil's Advocate** | After you produce a judgment | **Plays the opposition**: evidence, counterexamples, hidden assumptions | Final adjudication (defense) |
+| **Sanity Checker** | After elasticity / cost calculations | Independently recalculates, checks units and assumptions | Verification |
+| **Sector Analyst** | When discussing industry cases | Adds background, cross-country comparisons, overlooked stakeholders | Broaden perspective |
+| **Applicability** | When reading "text-book" theory | Challenges the boundary of theory's applicability in your country | Localization |
+
+## Companion Skill Packets (Advanced)
+
+- **`/case-challenge`**: Input a case + your judgment; invoke the challenger for a structured debate; output your strongest / weakest link — universal across the course.
+- **`/decision-gym`**: Standardized decision rehearsal (time-limited, role info cards, instant reveal) — for Lectures 4, 8–10.
+- **`/reflection-log`**: Collect "what reason I ultimately accepted / rejected from AI" — throughout the course and at the close, deposited for self-reflection and class-evaluation.
+
+::: {.callout-note appearance="simple"}
+**Scope**: This protocol is the course's pedagogical thinking framework. Each lecture (I hope) ends with a "Human–AI Collaboration Card" that gives the sparring role and one challenge question for that lecture.
+:::

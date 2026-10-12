@@ -1,0 +1,96 @@
+---
+title: "L5 · Cost Analysis"
+---
+
+<span class="capability-chip chip-mid">Middle · Detect problems</span>
+
+# Lecture 5 · Cost Analysis
+
+## Opening Discussion
+
+**The sunk railcar.** Bob is the manager of a coal company and has just paid $10,000 to lease a railcar for one month to ship coal to the market. Suppose that after signing the lease agreement, there is a sudden drop in market demand and the coal company no longer needs the railcar. Another company proposes to sublease the railcar for $1,000.
+
+**Question**: If the original lease allows subletting, should Bob accept the offer? Why?
+
+This leads to the core principle: **decision makers should ignore sunk costs.**
+
+## Learning Objectives
+
+- Distinguish fixed, variable, total, marginal, and average costs.
+- Understand the meaning of sunk costs and the principle of ignoring them in decisions.
+- Understand the difference between short-run and long-run costs.
+- Master cost-reducing strategies: learning-by-doing, economies of scope, supply chain management.
+
+## Core Conceptual Framework
+
+### 1. Types of Short-Run Costs
+
+| Cost | Definition | Example |
+|---|---|---|
+| Fixed Cost (FC) | Cost that does not vary with output | Equipment, rent, loan payments |
+| Variable Cost (VC) | Cost that varies with output | Materials, electricity, piece-rate wages |
+| Total Cost (TC) | TC = FC + VC | — |
+| Average Fixed Cost (AFC) | AFC = FC / Q | Falls as output rises |
+| Average Variable Cost (AVC) | AVC = VC(Q) / Q | May fall then rise |
+| Average Total Cost (ATC) | ATC = TC(Q) / Q = AVC + AFC | — |
+| Marginal Cost (MC) | MC = ΔTC / ΔQ | Cost of producing one more unit |
+
+**Farmer Bob's example**: he must pay $1,000 per month for land (FC); a farm worker's wage is $2,000 per month (VC). Costs vary with the quantity of wheat produced.
+
+### 2. Why Marginal Cost Rises with Output
+
+- Marginal product usually exhibits diminishing returns.
+- When the marginal product of an extra input falls, the marginal input required for an extra unit of output rises — i.e., **marginal cost rises**.
+- Diminishing marginal product and rising marginal cost are two sides of the same coin.
+- Exception: at the very beginning of production, marginal product may rise (fixed inputs used more fully), so marginal cost may fall.
+
+### 3. Sunk Costs
+
+- **Sunk cost**: a cost that is forever lost after it has been paid.
+- In real life, sunk cost is usually part of fixed cost.
+- **Decision principle**: to maximize profit or minimize losses, decision makers should ignore sunk cost.
+- "Don't cry over spilt milk."
+
+### 4. Long-Run Costs
+
+- In the long run, **all costs are variable** (no fixed costs).
+- Firms can adjust all inputs and choose the optimal scale.
+- **Efficient scale**: the output level at which average total cost is minimized.
+
+### 5. Cost-Reducing Strategies
+
+| Strategy | Meaning |
+|---|---|
+| Learning-by-Doing | As cumulative output rises, worker and organizational efficiency improves; average cost falls (learning curve) |
+| Economies of Scope | Jointly producing multiple products costs less than producing them separately |
+| Economies of Scale | Long-run average cost falls as output rises |
+| Supply Chain Management | Optimize procurement, inventory, and logistics to reduce transaction and operating costs |
+
+## Key Terms
+
+| Term | Definition |
+|---|---|
+| Fixed Cost (FC) | Cost that does not change with output |
+| Variable Cost (VC) | Cost that changes with output |
+| Marginal Cost (MC) | Change in total cost from an extra unit of output |
+| Average Total Cost (ATC) | Total cost divided by quantity |
+| Sunk Cost | A cost already incurred and unrecoverable |
+| Economies of Scale | LRATC falls as output rises |
+| Economies of Scope | Joint production costs less than separate production |
+| Learning-by-Doing | Cost reduction from accumulated production experience |
+
+## Human–AI Collaboration Card
+
+::: ai-card
+<span class="ai-card-title">🎭 Role: Sanity Checker</span>
+<span class="ai-card-role">Trigger: after cost calculations</span>
+
+**Challenge question**: Return to the railcar case. Independently give your decision recommendation, listing explicitly which costs you included and which you excluded in your reasoning. Then let AI independently recalculate and check that your units and assumptions match.
+
+> Remember: Human produces → AI challenges → Human adjudicates.
+:::
+
+## Readings
+
+- Thomas & Maurice, *Managerial Economics* (12th ed.): Chapter 10
+- Baye & Prince, *Managerial Economics* (10th ed.): Chapter 5

@@ -1,0 +1,40 @@
+---
+title: "Managerial Economics · Course Home"
+---
+
+# Managerial Economics (iMBA)
+
+> Zhiyuan Chen · Renmin Business School · Fall 2026
+
+This course aims to equip students with tools of economic analysis to avoid analytic pitfalls and become more effective managers. It integrates economic analysis with closely related studies of managerial and business practices. Drawing from real-world cases and state-of-the-art research, the course illustrates how managers can apply economic theories and techniques to guide decision-making and solve real business problems.
+
+::: {.callout-tip appearance="simple"}
+**Course aim**: Train students to think economically and make better business decisions using economic theories.
+:::
+
+## The Capability Pyramid
+
+The course is navigated by a three-layer capability progression. Each lecture is tagged with the capability layer it trains.
+
+| Layer | Keywords | Description |
+|---|---|---|
+| Foundation · Solve problems | Quick response · Adaptation · Basic decisions | Correct issues rapidly after they occur; restore the decision track |
+| Middle · Detect problems | Observation · Analysis · Teamwork | Catch signals before problems escalate; intervene with quantitative tools |
+| Top · Anticipate problems | Strategic thinking · Leadership · Innovation | Formulate strategy before problems emerge; anticipate industry evolution |
+
+## Lecture Overview
+
+| # | Topic | Layer |
+|---|---|---|
+| L1 | [Fundamentals](l1-fundamentals.qmd) | <span class="capability-chip chip-foundational">Foundation</span> |
+| L2 | [Demand, Supply & Equilibrium](l2-demand-supply.qmd) | <span class="capability-chip chip-foundational">Foundation</span> |
+| L3 | [Quantitative Demand Analysis](l3-elasticity.qmd) | <span class="capability-chip chip-mid">Middle</span> |
+| L4 | [Production Analysis](l4-production.qmd) | <span class="capability-chip chip-mid">Middle</span> |
+| L5 | [Cost Analysis](l5-cost.qmd) | <span class="capability-chip chip-mid">Middle</span> |
+| L6 | [Firm Organization](l6-firm-organization.qmd) | <span class="capability-chip chip-mid">Middle</span> |
+| L7 | [Market Structure & Firm Behavior](l7-market-structure.qmd) | <span class="capability-chip chip-strategic">Top</span> |
+
+## Key Links
+
+- [Full Syllabus](syllabus.qmd)
+- [Human–AI Collaboration Protocol](ai-protocol.qmd)

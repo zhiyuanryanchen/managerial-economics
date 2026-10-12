@@ -1,0 +1,95 @@
+---
+title: "Syllabus"
+---
+
+# Managerial Economics · Syllabus (Fall 2026)
+
+## Basic Information
+
+| Item | Content |
+|---|---|
+| Students | International MBA |
+| Credits | 2 (compulsory) |
+| Time | 8:00–11:30 am, 14:00–17:30 pm; Tuesdays, 8 weeks |
+| Venue | Morning：公学一楼312 ；Afternoon：公学一楼310 (通州校区) |
+| Instructor | Zhiyuan Chen |
+| E-mail | chenzhiyuan@rmbs.ruc.edu.cn |
+| Phone | (+86) 010-8250 9679 |
+| Appointment | By email |
+| Office | 316 Business Building (Tongzhou) / 919 Mingde Business Building (Zhongguancun) |
+| Teaching Assistants | Class 2:Yue Pan (潘玥) ; Class 1: Xiaochuan Shen(沈小川) |
+
+## Course Description
+
+This course aims to equip students with tools of economic analysis to avoid analytic pitfalls and become more effective managers. It integrates economic analysis with closely related studies of managerial and business practices. Drawing from real-world cases and state-of-the-art research projects, the course illustrates how managers can apply economic theories and techniques to guide their decision-making and solve real business problems. The course includes extensive coverage of analytical tools in managerial economics, such as demand–supply analysis, cost–benefit analysis, productivity analysis, market structure, etc.
+
+## Aims & Objectives
+
+Train students to think economically and make better business decisions using economic theories.
+
+## Learning Outcomes
+
+By the end of the course, students are expected to acquire the necessary managerial skills of:
+
+- Estimating demand
+- Deciding optimal production
+- Setting the most appropriate price
+- Formulating prices for different consumers and markets
+- Constructing and manipulating the best strategies
+
+as well as to be familiar with the following knowledge and terminologies of:
+
+- Demand, supply, and elasticity
+- Cost & production, productivity, marginal output
+- Market structure, perfect competition, monopolistic competition, homogeneous products
+- Strategic interactions
+
+## Teaching Method
+
+Each session (3 hours and 10 minutes) involves teaching focusing on theories and group discussions on cases or examples. The instructor guides the forum by providing a framework and asking probing questions, but it is the student's job to contribute constructively. Heated debates are fun and are highly encouraged.
+
+## Classroom Norms
+
+- **Keep your phone on silent; no phones or laptops during class.**
+- **Audio recording and paper notes are strongly recommended.**
+
+## AI Use Protocol
+
+You are encouraged to use AI as a learning assistant — as a **sparring partner**, not a solution machine:
+
+- **Human first**: attempt the problem yourself before consulting AI.
+- **AI challenges**: let AI question your reasoning rather than hand you answers.
+- **You decide**: you own the final judgment and must be able to defend it in class.
+
+See the [AI Protocol](ai-protocol.qmd) page for the full version.
+
+## Course Evaluation
+
+1. **40% Class participation**: Studying this course is a memorable process of discovery between you and your classmates. This class requires extensive participation. For it to be successful, you must be prepared by having done the reading and considered the questions posed in the assignment. The instructor will encourage you to contribute regularly and succinctly to each discussion. You will also be encouraged to disagree constructively with your fellow students and the instructor. Attendance at every class is strongly expected; occasional absence due to necessary personal issues is acceptable.
+2. **60% Final exam**: An **in-class closed-book exam** evaluating your comprehensive ability to use economic theory to solve real-life managerial problems. 
+
+## Session Overview
+
+The most recommended reading materials are written in the form of "Author + chapter number" (e.g., Thomas 12.).
+
+| # | Session | Topic | Reading |
+|---|---|---|---|
+| 1 | 10/12 | Principles and paradigm of managerial economics | Thomas 1 + Baye 1 + ...|
+| 2 | 10/19 | Demand, Supply, and Equilibrium | Thomas 2 + ...|
+| 3 | 10/26 | Quantitative Demand Analysis | Thomas 3 OR Baye 6 + ...|
+| 4 | 11/02 | Production Strategy | Thomas 5 + ...|
+| 5 | 11/9 | Costs and Profits | Thomas 10 + ...|
+| 6 | 11/16 | Market Structure and Firm Behavior | Thomas 11, 12, 13 + ...|
+| 7 | 11/23 | Pricing Strategy | Baye 8 |
+| 8 | 11/30  | Final Exam | — |
+
+## Reading List (To be updated)
+
+The best reference are the course website and AI! (* means important)
+
+- *Thomas, C.; Maurice, S.C. (2016). *Managerial Economics* (12th edition). McGraw-Hill. Photocopy version published by China Machine Press.
+- *Baye, M. R.; Prince, J. (2022). *Managerial Economics and Business Strategy* (10th edition). New York: McGraw-Hill.
+- Mankiw, N.G. (2017). *Principles of Economics* (6th edition). Cengage Learning. Photocopy version published by Tsinghua University Press.
+- Harvard Business Review (https://hbr.org/)
+- Financial Times (http://www.ft.com/home/asia)
+- China Daily (http://www.chinadaily.com.cn/)

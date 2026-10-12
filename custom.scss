@@ -1,0 +1,100 @@
+/* ---- 管理经济学 · 蓝白主题  (overlays on Cosmo) ---- */
+
+/*-- scss:defaults --*/
+/* 色彩变量：简洁蓝白 */
+$primary:       #1f6feb !default;   /* 主蓝 */
+$primary-dark:  #1557b8 !default;
+$primary-light: #e8f1fe !default;
+$border-color:  #dfe7f0 !default;
+$body-bg:       #ffffff !default;
+$body-color:    #1f2937 !default;
+$heading-color: #0f2c52 !default;
+
+/*-- scss:rules --*/
+/* 导航栏更清爽 */
+.navbar {
+  background-color: $primary !important;
+}
+
+/* 标题 */
+h1, h2, h3, h4 {
+  color: $heading-color;
+}
+
+/* 链接 */
+a {
+  color: $primary;
+}
+a:hover {
+  color: $primary-dark;
+  text-decoration: underline;
+}
+
+/* TOC 侧边栏 */
+#TOC {
+  border-left: 3px solid $primary-light;
+}
+#TOC a:hover {
+  color: $primary;
+  background-color: $primary-light;
+}
+
+/* 表格更干净 */
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+table th {
+  background-color: $primary-light;
+  color: $heading-color;
+  border-bottom: 2px solid $primary;
+}
+table td, table th {
+  padding: 8px 12px;
+  border-bottom: 1px solid $border-color;
+}
+
+/* 能力层标签 chip */
+.capability-chip {
+  display: inline-block;
+  padding: 3px 12px;
+  border-radius: 999px;
+  font-size: 0.85em;
+  font-weight: 600;
+  margin-bottom: 0.5em;
+}
+.chip-foundational { background: #e8f1fe; color: #1f6feb; border: 1px solid #cfe0fb; }
+.chip-mid           { background: #eefaf0; color: #1f7a3a; border: 1px solid #c9ecd1; }
+.chip-strategic     { background: #fff3e8; color: #b45309; border: 1px solid #f6d4a8; }
+
+/* 人机协作提示卡 */
+.ai-card {
+  background: #f6f9ff;
+  border-left: 4px solid $primary;
+  border-radius: 6px;
+  padding: 16px 20px;
+  margin: 1.2em 0;
+}
+.ai-card .ai-card-title {
+  font-weight: 700;
+  color: $primary-dark;
+  margin-bottom: 6px;
+}
+.ai-card .ai-card-role {
+  font-size: 0.9em;
+  color: #475569;
+}
+
+/* 落地页入口卡片 */
+.entry-card {
+  border: 1px solid $border-color;
+  border-radius: 10px;
+  padding: 22px;
+  margin: 10px 0;
+  transition: box-shadow .15s ease, border-color .15s ease;
+}
+.entry-card:hover {
+  border-color: $primary;
+  box-shadow: 0 2px 12px rgba(31,111,235,.12);
+}
+.entry-card h3 { margin-top: 0; }

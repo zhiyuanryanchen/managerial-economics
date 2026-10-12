@@ -1,0 +1,97 @@
+---
+title: "L7 · Market Structure & Firm Behavior"
+---
+
+<span class="capability-chip chip-strategic">Top · Anticipate problems</span>
+
+# Lecture 7 · Firm Behavior in Different Market Structures
+
+## Opening Discussion
+
+**Long-run equilibrium in perfect competition.** In the long run, a firm's economic profit in a perfectly competitive market equals zero. If so, does it make any sense for a firm to stay in a perfectly competitive market?
+
+(Hint: Economic profit = Revenue − Opportunity cost. Opportunity cost includes both explicit and implicit costs — managers' and workers' wages, interest, and machine depreciation are all included.)
+
+## Learning Objectives
+
+- Understand the classification of market structures and how to measure market concentration.
+- Master the pricing and output decisions of firms in perfect competition (P = MC).
+- Distinguish short-run from long-run economic profit.
+- Understand the characteristics and firm behavior of imperfect competition: monopoly, monopolistic competition, and oligopoly.
+
+## Core Conceptual Framework
+
+### 1. Market Structure Classification
+
+Market structures are classified by **number of firms** and **degree of competition**:
+
+| Structure | # of Firms | Product Differentiation | Entry Barriers | Price Influence |
+|---|---|---|---|---|
+| Perfect Competition | Very many | Homogeneous | None | None (price taker) |
+| Monopolistic Competition | Many | Differentiated | Low | Weak |
+| Oligopoly | Few | Homogeneous or differentiated | High | Strong |
+| Monopoly | One | No substitute | Very high | Very strong |
+
+**Market concentration** measures market structure, e.g., the four-firm concentration ratio (CR4) and the Herfindahl–Hirschman Index (HHI).
+
+### 2. Perfect Competition
+
+- **Characteristics**: large number of relatively small buyers and sellers; standardized or homogeneous products (rice, wheat, water, upstream raw materials); free entry and exit; perfect information on price and quality.
+- Firms are **price takers**; the demand curve facing each firm is horizontal.
+- **Profit maximization condition**: P = MC.
+- **Short run**: firms can earn positive economic profit or incur losses.
+- **Long run**: new entrants shift the industry supply curve to the right, pushing price down to the minimum of average cost — **economic profit is zero**.
+
+#### Break-even and Shut-down Points
+
+- P > minimum ATC: positive economic profit.
+- minimum AVC < P < minimum ATC: lose money but keep operating (covers part of fixed cost).
+- P < minimum AVC: shut down.
+
+### 3. Monopoly
+
+- **Monopolist**: the only firm selling a product with no close substitutes; it has **market power** — the ability to influence the price.
+- **Sources of monopoly — barriers to entry**:
+  - Legal restrictions: copyrights and patents
+  - Control of key resources: gold mines, crude oil
+  - Government franchise: e.g., cable TV
+  - Brand loyalty and heavy advertising: e.g., Prada
+  - Increasing returns to scale with network effects: e.g., WeChat
+- **Natural monopoly**: due to economies of scale, one firm can serve the entire market at a lower cost than multiple firms (e.g., water supply).
+- **Monopolist's revenue**: P = AR > MR (price equals average revenue, which is greater than marginal revenue).
+
+### 4. Monopolistic Competition and Oligopoly
+
+- **Monopolistic competition**: many firms selling differentiated products; each firm has some pricing power, but long-run economic profit tends toward zero.
+- **Oligopoly**: a few firms control the market; strategic interaction (game theory) is central.
+
+## Key Terms
+
+| Term | Definition |
+|---|---|
+| Market Structure | The competitive environment of a market |
+| Market Concentration | The extent to which a few firms dominate a market |
+| Perfect Competition | Many firms, homogeneous product, price takers |
+| Price Taker | A firm that cannot influence the market price |
+| Market Power | The ability to influence the price of one's product |
+| Monopoly | A single seller of a product with no close substitute |
+| Monopolistic Competition | Many firms selling differentiated products |
+| Oligopoly | A market dominated by a few firms |
+| Natural Monopoly | Monopoly due to economies of scale |
+| Barriers to Entry | Obstacles that prevent new firms from entering a market |
+
+## Human–AI Collaboration Card
+
+::: ai-card
+<span class="ai-card-title">🎭 Role: Red Team (China vs West)</span>
+<span class="ai-card-role">Trigger: when reading Western theory</span>
+
+**Challenge question**: Western economics usually starts from "price taker." But in the Chinese market, government guidance, the role of SOEs, and network effects make the classification of "market structure" more complex. Pick a Chinese industry, classify its market structure, then let AI challenge the boundary of this theory's applicability in China.
+
+> Remember: Human produces → AI challenges → Human adjudicates.
+:::
+
+## Readings
+
+- Thomas & Maurice, *Managerial Economics* (12th ed.): Chapters 11, 12, 13
+- Baye & Prince, *Managerial Economics* (10th ed.): Chapters 7–8

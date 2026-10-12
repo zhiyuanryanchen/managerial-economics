@@ -1,0 +1,79 @@
+---
+title: "L2 · Demand, Supply & Equilibrium"
+---
+
+<span class="capability-chip chip-foundational">Foundation · Solve problems</span>
+
+# Lecture 2 · Demand, Supply & Equilibrium
+
+## Opening Discussion
+
+**Can you find a real-life example that violates the law of demand?** Other things being equal, when the price of a good rises, the quantity demanded falls. What real-world counterexamples exist, and what do they imply for managerial decisions?
+
+## Learning Objectives
+
+- Understand the basic assumptions of a perfectly competitive market.
+- Master the demand curve, supply curve, and their shifters.
+- Understand how market equilibrium is formed.
+- Learn the concept of consumer surplus.
+
+## Core Conceptual Framework
+
+### 1. The Perfectly Competitive Market
+
+- **Market**: a group of buyers and sellers of a particular product.
+- **Competitive market**: one with many buyers and sellers, each having a negligible effect on price (wheat, mineral water).
+- In a **perfectly competitive market**:
+  - All goods are exactly the same
+  - Buyers & sellers are so numerous that no one can affect market price — each is a "price taker"
+  - Currently, we assume markets are perfectly competitive
+
+### 2. Consumer Demand
+
+- **Quantity demanded**: the amount of a good that buyers are willing and able to purchase.
+- **Law of demand**: other things being equal (ceteris paribus), the quantity demanded of a good falls when the price rises.
+- **Veblen Goods**: luxury items where higher prices can lead to higher demand because the goods serve as a status symbol (luxury cars, designer handbags, high-end wines). For such goods, a higher price signals exclusivity and desirability.
+
+### 3. Demand Curve Shifters
+
+The demand curve shows how price affects quantity demanded, other things being equal. These "other things" are non-price determinants of demand; changes in them shift the D curve.
+
+### 4. Producer Supply
+
+- **Quantity supplied**: the amount of a good that sellers are willing and able to sell.
+- **Law of supply**: as price rises, quantity supplied rises.
+- The supply curve shifts due to non-price supply determinants.
+
+### 5. Market Equilibrium
+
+- Market supply and market demand intersect to determine the equilibrium price and quantity.
+- Above equilibrium: surplus drives price down. Below equilibrium: shortage drives price up.
+
+## Key Terms
+
+| Term | Definition |
+|---|---|
+| Perfectly Competitive Market | Many buyers/sellers; homogeneous products; price takers |
+| Price Taker | A buyer/seller who cannot influence the market price |
+| Quantity Demanded | Amount buyers are willing and able to purchase |
+| Law of Demand | Quantity demanded falls as price rises (ceteris paribus) |
+| Veblen Goods | Goods where higher price increases demand (status goods) |
+| Quantity Supplied | Amount sellers are willing and able to sell |
+| Market Equilibrium | Where quantity supplied equals quantity demanded |
+| Consumer Surplus | Difference between willingness to pay and price paid |
+
+## Human–AI Collaboration Card
+
+::: ai-card
+<span class="ai-card-title">🎭 Role: Sector Analyst</span>
+<span class="ai-card-role">Trigger: when discussing industry cases</span>
+
+**Challenge question**: Pick an industry you know. Does the law of demand hold there? Under what conditions does it break down? Give your industry and judgment first, then let AI add cross-country comparisons and overlooked stakeholders.
+
+> Remember: Human produces → AI challenges → Human adjudicates.
+:::
+
+## Readings
+
+- Thomas & Maurice, *Managerial Economics* (12th ed.): Chapter 2
+- Baye & Prince, *Managerial Economics* (10th ed.): Chapter 2

@@ -1,0 +1,95 @@
+---
+title: "L4 · Production Analysis"
+---
+
+<span class="capability-chip chip-mid">Middle · Detect problems</span>
+
+# Lecture 4 · Production Analysis
+
+## Opening Discussion
+
+**Future Tech Company's capacity crunch.** Future Tech is a rapidly growing high-tech company in China, specializing in the production of intelligent robots. Over the past year, due to increased demand for both household and industrial intelligent robots, the company's sales have doubled. However, with the increase in order volume, the production department has faced challenges. Even with overtime work, the production line could not meet the order demand. The production manager made the following suggestions:
+
+1. Add a second production line to double capacity.
+2. Introduce more advanced production equipment to increase the speed of each robot.
+3. Increase employee training to improve worker productivity.
+
+**Questions**:
+1. Under current conditions, what is the company's production function? What are the fixed and variable inputs?
+2. What marginal costs and marginal outputs might the company face as it scales up production?
+3. How would you evaluate the economic benefits of the three suggestions?
+
+## Learning Objectives
+
+- Understand the production function and the input–output relationship it describes.
+- Distinguish short-run from long-run analysis.
+- Master marginal product, average product, and the law of diminishing returns.
+- Understand isoquants and returns to scale.
+- Learn total factor productivity (TFP) and data as a factor of production.
+
+## Core Conceptual Framework
+
+### 1. The Production Function
+
+- Managers must decide not only what to produce for the market, but also **how to produce it in the most efficient or least costly manner**.
+- A **production function** relates the most that can be produced from a given set of inputs:
+
+$$Q = f(X_1, X_2, \dots, X_n)$$
+
+- $Q$ is the output level (scalar for a single-product firm, vector for a multi-product firm); $X_i$ are different types of inputs (labor, capital, land, electricity, technology, etc.).
+
+### 2. Short-Run Analysis
+
+- **Short run**: at least one input is fixed (e.g., plant, equipment).
+- **Marginal Product (MP)**: the additional output from one more unit of a variable input.
+- **Average Product (AP)**: total output divided by the amount of the variable input.
+- **Law of Diminishing Returns**: as a variable input is continuously added (other inputs fixed), its marginal product eventually declines.
+
+### 3. Isoquants
+
+- An isoquant shows all combinations of two inputs that produce the same level of output, holding technology constant.
+- Its slope — the marginal rate of technical substitution (MRTS) — reflects the substitutability between two inputs.
+
+### 4. Long-Run Analysis
+
+- **Long run**: all inputs are variable.
+- **Returns to scale**:
+  - Increasing: output rises more than proportionally to inputs.
+  - Constant: output rises proportionally to inputs.
+  - Decreasing: output rises less than proportionally to inputs.
+- **Technological progress**: shifts the production function upward — more output from the same inputs.
+
+### 5. Measuring Productivity
+
+- **Labor productivity**: nominal vs. real labor productivity.
+- **Total Factor Productivity (TFP)**: the residual productivity after accounting for capital and labor contributions — reflecting technology and managerial efficiency.
+- **Data as an intangible asset**: firms can collect and sell data for profit; advances in data storage and analysis tools (machine learning, AI) have made data a critical factor of production.
+
+## Key Terms
+
+| Term | Definition |
+|---|---|
+| Production Function | Maximum output from a given set of inputs |
+| Marginal Product (MP) | Additional output from one more unit of input |
+| Average Product (AP) | Total output divided by input used |
+| Law of Diminishing Returns | MP eventually falls as a variable input increases |
+| Isoquant | Combinations of inputs producing the same output |
+| Returns to Scale | How output responds to a proportional increase in all inputs |
+| Total Factor Productivity (TFP) | Residual productivity from technology and management |
+| MRTS | Marginal rate of technical substitution |
+
+## Human–AI Collaboration Card
+
+::: ai-card
+<span class="ai-card-title">🎭 Role: Devil's Advocate</span>
+<span class="ai-card-role">Trigger: after you produce a judgment</span>
+
+**Challenge question**: Return to Future Tech. Which suggestion would you recommend to the CEO? Write your judgment and reasoning (fixed/variable inputs, marginal product, returns to scale) first, then let AI play the opposition — giving evidence, counterexamples, and hidden assumptions.
+
+> Remember: Human produces → AI challenges → Human adjudicates.
+:::
+
+## Readings
+
+- Thomas & Maurice, *Managerial Economics* (12th ed.): Chapter 5
+- Baye & Prince, *Managerial Economics* (10th ed.): Chapter 5

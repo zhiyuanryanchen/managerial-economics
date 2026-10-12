@@ -1,0 +1,41 @@
+---
+title: "管理经济学 · 课程主页"
+lang: zh
+---
+
+# 管理经济学（MBA 班）
+
+> 陈志远 · 中国人民大学商学院 · 2025 秋季学期
+
+管理经济学是连接经济学理论与企业管理决策实践的桥梁。本课程基于机会成本与边际分析等核心概念，从市场运行的基本原理、政府与市场的关系以及市场经济条件下企业行为的基本规律出发，结合企业内部与外部的具体环境约束探讨如何进行管理决策。
+
+::: {.callout-tip appearance="simple"}
+**课程目标**：培养学员的经济学思维方式，以及运用经济学理论解决实际问题的能力。
+:::
+
+## 能力金字塔
+
+课程以三层能力递进为导航，每讲明确标注其训练的能力层级。
+
+| 层级 | 能力关键词 | 说明 |
+|---|---|---|
+| 顶层 · 预见问题 | 战略思维 · 领导力 · 创新 | 在问题发生前制定策略——预测行业演变并前置布局 |
+| 中层 · 发现问题 | 观察 · 分析 · 团队协作 | 在问题显性化之前捕捉信号，用定量工具及时干预 |
+| 底层 · 解决问题 | 快速反应 · 应变 · 基本决策 | 问题发生后迅速纠正，恢复决策轨道 |
+
+## 课程大纲速览
+
+| 讲次 | 主题 | 能力层 |
+|---|---|---|
+| 第 1 讲 | [基本概念与原理](l1-fundamentals.qmd) | <span class="capability-chip chip-foundational">底层</span> |
+| 第 2 讲 | [需求、供给与均衡](l2-demand-supply.qmd) | <span class="capability-chip chip-foundational">底层</span> |
+| 第 3 讲 | [需求的定量分析](l3-elasticity.qmd) | <span class="capability-chip chip-mid">中层</span> |
+| 第 4 讲 | [生产分析](l4-production.qmd) | <span class="capability-chip chip-mid">中层</span> |
+| 第 5 讲 | [成本分析](l5-cost.qmd) | <span class="capability-chip chip-mid">中层</span> |
+| 第 6 讲 | [企业组织分析](l6-firm-organization.qmd) | <span class="capability-chip chip-mid">中层</span> |
+| 第 7 讲 | [市场结构与企业行为](l7-market-structure.qmd) | <span class="capability-chip chip-strategic">顶层</span> |
+
+## 关键链接
+
+- [完整课程大纲](syllabus.qmd)
+- [人机协作协议](ai-protocol.qmd)

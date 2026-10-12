@@ -1,0 +1,68 @@
+---
+title: "管理经济学"
+subtitle: "Managerial Economics · AI 融合版"
+---
+
+:::: {.callout-note appearance="simple" icon="false"}
+## 连接经济理论与管理决策 · Where Economic Reasoning Meets Managerial Judgment
+
+管理经济学是连接经济学理论与企业管理决策实践的桥梁。
+本课程基于机会成本与边际分析等核心概念，探讨企业在内部与外部约束下的管理决策。
+
+This course bridges economic theory and managerial practice. It applies
+microeconomic tools — opportunity cost and marginal analysis — to real business
+decisions under internal and external constraints.
+::::
+
+## 课程入口 · Course Entry
+
+:::: {layout-ncol="2"}
+
+::: entry-card
+### 中文课程（MBA 班）
+
+- 中国人民大学商学院 2026 秋季学期
+- 主讲：陈志远
+- 能力导向：看见 · 测量 · 选择 · 改变
+- [进入中文课程](zh/index.qmd) →
+:::
+
+::: entry-card
+### English (iMBA)
+
+- RMBS, Renmin University · Fall 2025
+- Instructor: Zhiyuan Chen
+- Think economically; decide strategically.
+- [Enter English Course](en/index.qmd) →
+:::
+
+::::
+
+## 人机协作主线 · Human–AI Collaboration
+
+本课程尝试把 AI 融入教学，**但不把答案交给 AI**。
+
+This course integrates AI into teaching, **without handing answers over to AI**.
+
+> **思辨铁律 / Thinking Rule**：
+> 人先产出 → AI 挑战 → 人终审裁决。
+> Human produces → AI challenges → Human adjudicates.
+
+所有 AI 角色一律设计为「对练型／挑战型」，而非「答案型」。
+详见：[中文 · 人机协作协议](zh/ai-protocol.qmd)｜[English · Human–AI Protocol](en/ai-protocol.qmd)
+
+## 能力金字塔 · The Capability Pyramid
+
+课程以三层能力递进为导航，每讲明确标注其训练的能力层级。
+
+| 层级 · Layer | 能力关键词 · Keywords | 说明 · Description |
+|---|---|---|
+| 底层 · 解决问题 | 快速反应 · 应变 · 基本决策 | 问题发生后迅速纠正，恢复决策轨道 |
+| 中层 · 发现问题 | 观察 · 分析 · 团队协作 | 在问题显性化之前捕捉信号，用定量工具及时干预 |
+| 顶层 · 预见问题 | 战略思维 · 领导力 · 创新 | 在问题发生前制定策略，预测行业演变并前置布局 |
+
+
+::: {.callout-tip appearance="simple"}
+**下一步 / Next step**：请从顶部导航选择语言，进入对应课程主页与各讲内容。
+Pick a language from the top navigation to enter the course.
+:::

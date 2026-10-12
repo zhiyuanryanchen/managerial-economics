@@ -1,0 +1,82 @@
+---
+title: "L1 · Fundamentals"
+---
+
+<span class="capability-chip chip-foundational">Foundation · Solve problems</span>
+
+# Lecture 1 · Fundamentals
+
+## Opening Discussion
+
+**Help Bob choose the right road map.** Bob lives in Beijing and plans to drive to Shanghai to visit his friends for the first time, to celebrate the Spring Festival. Bob uses Baidu / GaoDe map. The map provides either a satellite view or a simple street view. **Which view will Bob choose? Why?**
+
+This leads to the core of the lecture: economic theory is like a road map — it uses simplifying assumptions to give you insight into complex real-world problems.
+
+## Learning Objectives
+
+- Understand the positioning of managerial economics as a bridge between economic theory and managerial decisions.
+- Master the three-layer "capability pyramid."
+- Grasp the basic ideas of opportunity cost and marginal analysis.
+- Build the methodological intuition that "economic theory is a simplifying map."
+
+## Core Conceptual Framework
+
+### 1. The Capability Pyramid
+
+| Layer | Capability | Description |
+|---|---|---|
+| Top | Anticipate and solve problems | Strategic thinking, leadership, innovation — formulate strategy before problems emerge |
+| Middle | Detect and solve problems | Observation, analysis, teamwork — intervene before problems escalate |
+| Foundation | Solve problems | Quick response, adaptation, basic decisions — correct rapidly after problems occur |
+
+### 2. What Is Managerial Economics?
+
+**Manager + Economics = Managerial Economics**
+
+- **Manager**: a person who directs resources / behavior of individuals to achieve a stated goal — directing the efforts of others, purchasing inputs, making decisions on price, quality, innovation.
+- **Economics**: the science of making decisions / allocating resources in the presence of scarce resources.
+  - Microeconomics: individual behavior
+  - Industrial Organization: structure of firms and industries
+- **Managerial economics**: the study of how to direct scarce resources in the way that most efficiently achieves a managerial goal.
+
+### 3. Why Do We Need Economic Theory?
+
+- "I don't want ivory-tower theorizing; I want a practical solution!" — There are no cookbook formulas for real-world problems.
+- **Theory allows people to gain insights into complicated problems using simplifying assumptions.**
+- Using economic theory is like using a road map: it simplifies business problems (pricing, advertising, investment…) to their most essential components.
+- This class provides a way of viewing complex real-world problems and thinking of practical solutions.
+
+### 4. Principles of Effective Management
+
+This course helps you in each step of your decision-making process:
+
+- Identify goals and constraints
+- Recognize incentives and opportunity costs
+- Understand markets and margins
+
+## Key Terms
+
+| Term | Definition |
+|---|---|
+| Managerial Economics | Study of how to direct scarce resources to achieve a managerial goal |
+| Opportunity Cost | The value of the best foregone alternative |
+| Marginal Analysis | Comparing marginal benefits against marginal costs |
+| Scarce Resources | Resources available in limited quantity |
+| Microeconomics | Study of individual behavior |
+| Industrial Organization | Study of the structure of firms and industries |
+
+## Human–AI Collaboration Card
+
+::: ai-card
+<span class="ai-card-title">🎭 Role: Socratic Mirror</span>
+<span class="ai-card-role">Trigger: when you ask "is this right?"</span>
+
+**Challenge question**: The metaphor "economic theory is a simplifying map" — what complexities of real managerial decisions does it hide? Give your own answer first, then let AI only ask you questions (no answers).
+
+> Remember: Human produces → AI challenges → Human adjudicates.
+:::
+
+## Readings
+
+- Thomas & Maurice, *Managerial Economics* (12th ed.): Chapter 1
+- Baye & Prince, *Managerial Economics* (10th ed.): Chapter 1

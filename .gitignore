@@ -1,0 +1,9 @@
+# Quarto build artifacts
+/.quarto/
+/_site/
+/_book/
+*.html.md
+
+# System files
+.DS_Store
+Thumbs.db

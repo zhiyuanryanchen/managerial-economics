@@ -1,0 +1,90 @@
+---
+title: "L6 · Firm Organization Analysis"
+---
+
+<span class="capability-chip chip-mid">Middle · Detect problems</span>
+
+# Lecture 6 · Firm Organization Analysis
+
+## Opening Discussion
+
+**Xiaomi's breakthrough strategy.** 2015 marked a turning point in Xiaomi's development. With the proliferation of smartphones, the Chinese mobile phone market began to saturate, and competition on low prices became increasingly fierce. In 2016, Xiaomi's mobile phone sales dropped by 36%, and the company's development encountered a deadlock. After analyzing the situation, Lei Jun believed that smart hardware interconnected in the era of the Internet of Things (IoT) is an inevitable trend, and Xiaomi needed to enrich its product content and variety.
+
+**Questions**:
+- Which products should Xiaomi expand into? Should they be related or unrelated to the core product?
+- How should Xiaomi expand — produce on its own, outsource, or form joint ventures?
+- If you were Lei Jun, how would you answer these questions?
+
+## Learning Objectives
+
+- Understand the nature and boundaries of the firm (Coase's question, transaction costs).
+- Master the three basic ways to acquire production inputs and when each is appropriate.
+- Understand the four types of specialized investments and the problems they cause.
+- Learn the principal–agent problem and incentive mechanism design.
+
+## Core Conceptual Framework
+
+### 1. The Nature of the Firm
+
+| View | Core idea |
+|---|---|
+| Neoclassical Economics | Values market and price mechanisms; emphasizes production efficiency and profit maximization; firms are part of the production function |
+| Coase's Question (1937) | Why do firms exist instead of all production being carried out through market transactions? |
+| Coase's Explanation | Market transactions involve **transaction costs**; the relative size of internal vs. market transaction costs determines the firm's boundary |
+| New Institutional Economics | Focuses on internal organizational structure and governance; emphasizes transaction costs and contractual arrangements; pays attention to legal, policy, and cultural backgrounds |
+
+### 2. Three Basic Ways to Acquire Inputs
+
+| Method | Meaning | Advantage | Disadvantage |
+|---|---|---|---|
+| Spot Exchange | Buyer and seller meet, trade, and separate; no contract | Clear division of labor, focus on strengths | Uncertain relationship, quality control hard |
+| Contract | Long-term cooperation via contract on scope, price, time | Stable relationship, clear constraints | High drafting/legal costs, incomplete contracts |
+| Vertical Integration | Produce inputs in-house | Independent supply chain, less supplier dependence | Loss of specialization, higher organizational cost |
+
+### 3. Transaction Costs and Specialized Investments
+
+- **Transaction costs**: the portion of the cost of acquiring inputs beyond what is actually paid to the supplier. They run through the entire transaction process: search costs, negotiation costs, investments to facilitate the transaction.
+- **Four types of specialized investment**:
+
+| Type | Meaning | Example |
+|---|---|---|
+| Site specificity | Locate factories nearby to reduce transaction costs | Power plants built near coal mines |
+| Physical-asset specificity | Equipment for one input cannot produce another | Equipment for phone screens cannot make chips |
+| Dedicated assets | General investments made to serve an important customer | A new production line built for a large government buyer |
+| Human-asset specificity | Skills workers must learn that have no value elsewhere | Colleague relationships, idiosyncratic service work |
+
+- Specialized investment means fewer suppliers, exposing the buyer to higher **bargaining costs** and the "hold-up" risk.
+
+### 4. Principal–Agent Problem and Incentives
+
+- **Principal–agent problem**: when the agent's (e.g., manager's) goals differ from the principal's (e.g., shareholders'), moral hazard may arise.
+- **Incentive mechanism design**: align the agent's goals with the principal's through salary, equity, promotion, etc.
+
+## Key Terms
+
+| Term | Definition |
+|---|---|
+| Transaction Cost | Costs beyond the price paid to the supplier |
+| Vertical Integration | Producing inputs in-house |
+| Spot Exchange | Immediate, one-time market transaction |
+| Specialized Investment | Investment specific to a transaction, with limited alternative use |
+| Hold-up | Exploiting the other party's sunk specialized investment |
+| Principal–Agent Problem | Conflict of goals between principal and agent |
+| Moral Hazard | Risk of agent shirking when effort is unobservable |
+| Incentive Mechanism | Tools to align agent and principal goals |
+
+## Human–AI Collaboration Card
+
+::: ai-card
+<span class="ai-card-title">🎭 Role: Sector Analyst</span>
+<span class="ai-card-role">Trigger: when discussing industry cases</span>
+
+**Challenge question**: Return to the Xiaomi case. Give your judgment on "make or buy" and your reasoning (transaction costs, specialized investment) first. Then let AI add cross-country comparisons (e.g., Samsung vs. Apple supply-chain strategies) and overlooked stakeholders.
+
+> Remember: Human produces → AI challenges → Human adjudicates.
+:::
+
+## Readings
+
+- Thomas & Maurice, *Managerial Economics* (12th ed.): firm organization chapters
+- Baye & Prince, *Managerial Economics* (10th ed.): Chapter 6
