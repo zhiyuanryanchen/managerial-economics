@@ -23,12 +23,8 @@ website:
     pinned: true
     left:
       - href: index.qmd
-        text: "首页 · Home"
-      - href: downloads.qmd
-        text: "课件下载 · Downloads"
-      - href: skills.qmd
-        text: "学习技能 · Skills"
-      - text: "中文"
+        text: "Home"
+      - text: "MBA中文"
         menu:
           - href: zh/index.qmd
             text: "课程主页"
@@ -51,7 +47,7 @@ website:
             text: "第 6 讲 · 企业组织分析"
           - href: zh/l7-market-structure.qmd
             text: "第 7 讲 · 市场结构与企业行为"
-      - text: "English"
+      - text: "iMBA English"
         menu:
           - href: en/index.qmd
             text: "Course Home"
@@ -74,6 +70,10 @@ website:
             text: "L6 · Firm Organization"
           - href: en/l7-market-structure.qmd
             text: "L7 · Market Structure"
+      - href: downloads.qmd
+        text: "下载 · Downloads"
+      - href: skills.qmd
+        text: "技能 · Skills"
 
   search:
     location: navbar
