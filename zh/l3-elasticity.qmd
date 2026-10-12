@@ -82,7 +82,7 @@ $$\text{百分比变化} = \frac{\text{终值} - \text{初值}}{\text{中点}}$$
 ## 人机协作提示卡
 
 ::: ai-card
-<span class="ai-card-title">🎭 对练角色：测谎器（Sanity Checker）</span>
+<span class="ai-card-title">🎭 对练角色：合理性检验（Sanity Checker）</span>
 <span class="ai-card-role">触发：弹性测算之后</span>
 
 **挑战问题**：回到开场案例，假设你估算出鲍勃广告的需求价格弹性为 |E| = 1.5。请独立复算他提价到 2500 元后的预期销量与总收入，并让 AI 核对你的单位、假设与计算步骤是否一致。

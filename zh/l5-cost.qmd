@@ -81,7 +81,7 @@ lang: zh
 ## 人机协作提示卡
 
 ::: ai-card
-<span class="ai-card-title">🎭 对练角色：测谎器（Sanity Checker）</span>
+<span class="ai-card-title">🎭 对练角色：合理性检验（Sanity Checker）</span>
 <span class="ai-card-role">触发：成本测算之后</span>
 
 **挑战问题**：回到开场的铁路货厢案例。请先独立给出你的决策建议，并明确列出你在推理中哪些成本被纳入、哪些被排除。再让 AI 独立复算，核对你的单位与假设是否一致。

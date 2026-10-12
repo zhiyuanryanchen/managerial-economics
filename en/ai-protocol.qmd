@@ -32,7 +32,7 @@ All agents are designed as "sparring / challenging" types — never "answer" typ
 | **Devil's Advocate** | After you produce a judgment | **Plays the opposition**: evidence, counterexamples, hidden assumptions | Final adjudication (defense) |
 | **Sanity Checker** | After elasticity / cost calculations | Independently recalculates, checks units and assumptions | Verification |
 | **Sector Analyst** | When discussing industry cases | Adds background, cross-country comparisons, overlooked stakeholders | Broaden perspective |
-| **Applicability** | When reading "text-book" theory | Challenges the boundary of theory's applicability in your country | Localization |
+| **Put theory into practice** | When learning any theory or tool | Stress-tests where and under what conditions a theory actually works | Grounding |
 
 ## Companion Skill Packets (Advanced)
 

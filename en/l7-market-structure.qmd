@@ -83,10 +83,10 @@ Market structures are classified by **number of firms** and **degree of competit
 ## Human–AI Collaboration Card
 
 ::: ai-card
-<span class="ai-card-title">🎭 Role: Red Team (China vs West)</span>
-<span class="ai-card-role">Trigger: when reading Western theory</span>
+<span class="ai-card-title">🎭 Role: Put theory into practice</span>
+<span class="ai-card-role">Trigger: when learning any theory or tool</span>
 
-**Challenge question**: Western economics usually starts from "price taker." But in the Chinese market, government guidance, the role of SOEs, and network effects make the classification of "market structure" more complex. Pick a Chinese industry, classify its market structure, then let AI challenge the boundary of this theory's applicability in China.
+**Challenge question**: Western economics usually starts from "price taker." But in the Chinese market, government guidance, the role of SOEs, and network effects make the classification of "market structure" more complex. Pick a Chinese industry, classify its market structure, then let AI stress-test the theory's premises and applicability boundary (the China context is one important test).
 
 > Remember: Human produces → AI challenges → Human adjudicates.
 :::

@@ -77,7 +77,7 @@ lang: zh
 ## 人机协作提示卡
 
 ::: ai-card
-<span class="ai-card-title">🎭 对练角色：背景板（Sector Analyst）</span>
+<span class="ai-card-title">🎭 对练角色：行业场景（Sector Analyst）</span>
 <span class="ai-card-role">触发：讨论行业案例时</span>
 
 **挑战问题**：回到小米案例。请先给出你对「自制还是外购」的判断与依据（交易成本、专用性投资）。再让 AI 补充他国对照案例（如三星 vs. 苹果的供应链策略）与被忽略的利益方。
