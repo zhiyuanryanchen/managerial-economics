@@ -1,0 +1,115 @@
+---
+title: "学习技能 · AI Skills"
+---
+
+# AI 学习技能 · AI Learning Skills
+
+本课程提供 9 个 AI「对练技能」（Skills），与课程的人机协作协议配套：
+**人先产出 → AI 挑战 → 人终审裁决**。技能分为两类——
+
+- **角色型**：扮演苏格拉底之镜、挑战者等对练角色，只质疑、不喂答案。
+- **流程型**：组织一段完整的学习流程，如案例对辩、决策彩排、思想史深潜。
+
+技能文件存放于课程仓库的 `skills/` 目录，**不在网页上直接展示全文**；
+本页仅提供清单、简介与安装方式。
+
+## 技能清单 · Skill List
+
+### 角色型 · Sparring Roles
+
+| 技能 | 触发方式 | 简介 | 适用 |
+|---|---|---|---|
+| 苏格拉底之镜 `socratic-mirror` | `/socratic-mirror <你的判断或困惑>` | 只以反问回应，绝不给出答案，逼你自己看见思考中的裂缝 | 全书通用 |
+| 挑战者 `devils-advocate` | `/devils-advocate <你的判断>` | 只做反方：反面证据、反例与被忽略的隐含假设，压力测试你的判断 | 全书通用 |
+| 测谎器 `sanity-checker` | `/sanity-checker <你的测算>` | 独立复算弹性、成本、回归等定量结果，核对单位与假设，只审计不代算 | 定量章节 |
+| 行业场景 `sector-analyst` | `/sector-analyst <行业或案例>` | 补充行业背景、他国对照与常被忽略的利益方，拓宽参照系 | 案例章节 |
+| 理论应用 `theory-into-practice` | `/theory-into-practice <理论或工具>` | 压力测试理论的适用边界：前提是否成立、能否迁移、何处会失灵 | 全书通用 |
+
+### 流程型 · Workflow Skills
+
+| 技能 | 触发方式 | 简介 | 能力层 |
+|---|---|---|---|
+| 案例挑战 `case-challenge` | `/case-challenge <案例> ｜ <你的判断>` | 结构化对辩，输出你判断中的「最强一环」与「最弱一环」 | 底层—顶层 |
+| 决策健身房 `decision-gym` | `/decision-gym <场景 / 章节>` | 限时＋角色信息卡＋即时揭晓的决策彩排，训练信息不全时的现场判断 | 中层—顶层 |
+| 思想史深潜 `great-dialogue` | `/great-dialogue <概念或问题>` | 梳理概念在思想史中的演变脉络（情境→辩论→演化→启示），形成你自己的理解 | 中层—顶层 |
+| 反思日志 `reflection-log` | `/reflection-log <记录 / 生成 / 复盘>` | 记录「我最终接受／拒绝了 AI 的什么理由」，把每次终审沉淀为可复盘语料 | 顶层 |
+
+## 一键安装 · One-Shot Install
+
+在 **Trae Code、Trae SOLO** 或其他支持 Skills 的 AI 编程助手中，新建对话并直接发送以下指令：
+
+```text
+请从 Gitee 克隆课程仓库（若失败则改用 GitHub 备用地址），把仓库 skills/ 目录下的全部 9 个技能安装到我本机的 AI 技能目录（若无法确定目录位置，请先询问我）。安装完成后列出已安装技能清单与各自的触发方式。
+Gitee：https://gitee.com/zhiyuanryanchen/managerial-economics.git
+GitHub：https://github.com/zhiyuanryanchen/managerial-economics.git
+```
+
+::: {.callout-note appearance="simple"}
+## 手动安装
+
+也可以自行 `git clone` 上述仓库，将 `skills/` 下各文件夹复制到你的 AI 助手的技能目录。
+:::
+
+## 师生共创：技能随课程一起演进 · Co-creation
+
+技能不是一次性讲义，而是**师生共同维护的活教材**。机制分三步：
+
+### 第一步：用技能学习，对练记录计入作业（占平时成绩 20%）
+
+- 平时成绩中划出 **20%** 作为「AI 对练作业」。
+- 指定作业要求提交**真实聊天记录导出**（Markdown 格式，含 AI 的完整回答，不得事后润色、删改或代写），并附 `/reflection-log` 生成的反思小结。
+- 评审不看答案对错，重点看提问与思辨质量：
+
+| 评审维度 | 关注点 |
+|---|---|
+| 提问质量 | 问题是否具体、切中要害，能否层层追问 |
+| 假设审查 | 是否主动追问模型与自己的隐含假设 |
+| 回应质量 | 面对 AI 反驳时，是修正、反驳还是无原则接受 |
+| 终审裁决 | 最终判断是否有据，能否说清接受／拒绝 AI 的理由 |
+| 记录真实性 | 聊天记录是否完整、真实（篡改记录按学术不端处理） |
+
+### 第二步：发现技能缺陷，提交 Issue 捉虫
+
+使用中发现技能的 Bug、知识漏洞或引导失效，欢迎通过仓库 Issues 提交：
+
+- Gitee（国内推荐）：<https://gitee.com/zhiyuanryanchen/managerial-economics/issues>
+- GitHub：<https://github.com/zhiyuanryanchen/managerial-economics/issues/new>
+
+**Issue 写法模板**（标题以 `[Skill-Bug]` 或 `[Skill-建议]` 开头）：
+
+```text
+标题：[Skill-Bug] sanity-checker 未核对弹性估计中的符号方向
+1. 技能名称：sanity-checker
+2. 复现过程：我输入了「价格上升 10%，需求量上升 6%，需求价格弹性为 -0.6」，
+   技能只检查了数值大小，未指出符号方向矛盾。
+3. 期望行为：应指出弹性定义为负、符号与需求定理矛盾，并要求核对数据。
+4. 实际行为：技能回复「计算无误」。
+5. 改进建议：在复算清单中加入「符号方向是否符合理论定义」一项。
+```
+
+评审流程：**助教初筛 → 任课教师确认 → 合并修改 → 页面公示致谢**。
+被采纳的 Issue 可获得：
+
+- **现金奖励 10–100 元**（按影响程度：文字／链接错误 10–30 元；逻辑漏洞或适用边界错误 30–60 元；可能导致决策误导的严重错误或优秀重构建议 60–100 元）；
+- **课程评价加分**（同一学期累计上限另行公布）。
+
+### 第三步：技能持续更新，学生同步升级
+
+技能会随课程推进与同学们的 Issue 反馈动态迭代。页面与仓库更新后，请：
+
+- **重新发送上方的「一键安装」指令**（会自动覆盖为最新版），或在克隆目录中执行 `git pull` 后重新复制；
+- 关注本页底部的**版本更新日期**；课堂上也会预告重要变更。
+
+::: {.callout-tip appearance="simple"}
+**核心精神**：最好的学习，是一边使用工具，一边改进工具——你提交的每一个 Issue，都会成为下一届同学更好的学习体验。
+:::
+
+---
+
+## For iMBA Students
+
+- The `skills/` folder ships **nine sparring skills**: five roles (Socratic Mirror, Devil's Advocate, Sanity Checker, Sector Analyst, Theory-into-Practice) and four workflows (Case Challenge, Decision Gym, Great Dialogue, Reflection Log). They challenge your reasoning — they never hand you answers.
+- **Install**: paste the one-shot prompt above into Trae Code / Trae SOLO. The prompt itself is bilingual-proof; the agent clones the Gitee mirror (fast in China) with a GitHub fallback.
+- **Homework (20% of the participation grade)**: selected assignments require an exported, unedited chat transcript plus a `/reflection-log` summary. You are assessed on question quality, assumption-checking, response to challenges, and the reasoning behind your final adjudication.
+- **Bug bounty**: open an issue using the template above. Accepted reports earn RMB 10–100 and a course-credit bonus.
+- **Updates**: skills evolve weekly — re-run the install prompt or `git pull` to stay current.

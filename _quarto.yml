@@ -1,6 +1,13 @@
 project:
   type: website
   output-dir: _site
+  render:
+    - index.qmd
+    - about.qmd
+    - downloads.qmd
+    - skills.qmd
+    - zh
+    - en
   resources:
     - downloads/
 
@@ -19,6 +26,8 @@ website:
         text: "首页 · Home"
       - href: downloads.qmd
         text: "课件下载 · Downloads"
+      - href: skills.qmd
+        text: "学习技能 · Skills"
       - text: "中文"
         menu:
           - href: zh/index.qmd
