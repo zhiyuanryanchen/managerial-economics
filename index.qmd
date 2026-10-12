@@ -1,6 +1,6 @@
 ---
-title: "管理经济学"
-subtitle: "Managerial Economics · AI 融合版"
+title: "面向AI时代的管理经济学"
+subtitle: "Managerial Economics in the AI Era"
 ---
 
 :::: {.callout-note appearance="simple" icon="false"}
