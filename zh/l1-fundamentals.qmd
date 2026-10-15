@@ -80,3 +80,5 @@ lang: zh
 
 - 吴德庆等《管理经济学》第 8 版：第 1 章
 - Baye & Prince *Managerial Economics*（10th ed.）：Chapter 1
+
+{{< include ../_homework1.qmd >}}

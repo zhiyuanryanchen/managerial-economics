@@ -98,3 +98,54 @@ table td, table th {
   box-shadow: 0 2px 12px rgba(31,111,235,.12);
 }
 .entry-card h3 { margin-top: 0; }
+
+/* 人物插图：统一缩放 + 左图右文（学术式版式） */
+.portrait-split {
+  display: grid;
+  grid-template-columns: 170px minmax(0, 1fr);
+  column-gap: 22px;
+  align-items: start;
+  margin: 0.5em 0 0;
+}
+
+.portrait-figure,
+.portrait-figure p {
+  margin: 0;
+}
+
+.portrait-figure img {
+  display: block;
+  width: 100%;
+  height: auto;
+  border: 1px solid $border-color;
+  border-radius: 3px;
+  background: #ffffff;
+  filter: grayscale(100%);
+}
+
+.portrait-body > :first-child { margin-top: 0; }
+.portrait-body > :last-child { margin-bottom: 0; }
+.portrait-body p,
+.portrait-body ol,
+.portrait-body ul { margin-bottom: 0.6em; }
+
+.portrait-body blockquote {
+  margin: 0 0 0.6em;
+  padding-left: 0.9em;
+  border-left: 2px solid $border-color;
+  font-size: 1rem;
+  line-height: 1.65;
+  color: #334155;
+}
+
+/* 窄屏：上下堆叠，避免错位与溢出 */
+@media (max-width: 767.98px) {
+  .portrait-split {
+    grid-template-columns: 1fr;
+    row-gap: 12px;
+  }
+
+  .portrait-figure {
+    max-width: 132px;
+  }
+}

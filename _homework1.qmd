@@ -1,0 +1,205 @@
+## Homework 1 · 第一次作业 · Meet Your Sparring Partners（初次交锋：认识你的对练伙伴）
+
+::: {.callout-note appearance="simple" icon="false"}
+## Logistics 时间与计分
+
+- **Assigned**（布置）：October 15, 2026
+- **Due**（截止）：October 29, 2026 —— two weeks after the assignment（布置后两周）
+- **Weight**（计分）：this counts toward the **20% AI-sparring assignments**（AI 对练作业，占总评 20%）
+- **In-class discussion**（课上讨论）：Stations 2, 5 and 7 will be discussed in class；请带上你未经编辑的聊天记录
+:::
+
+### Purpose 作业目的
+
+This assignment is **not** about getting answers. It is about three things：
+
+1. **Know your sparring partners**（认识你的对练伙伴）—— you must run **all nine AI skills** at least once；
+2. **Let the skills push your thinking further**（让技能把你的思考再推一步）—— every skill is a sparring partner, never a content generator；
+3. **Start co-creating the course**（开始与课程共创）—— if a skill fails you, file an Issue and claim the bounty.
+
+本作业的目的不是「拿到答案」，而是：① 熟悉课程全部九个 AI 技能，每个至少使用一次；② 让技能把你的思考再往前推一步 —— 它们是陪练，不是内容生成器；③ 开始与课程共创 —— 技能失灵时提交 Issue，领取奖励。
+
+### The Sparring Rule 对练规则
+
+::: {.callout-important appearance="minimal" icon="false"}
+## Human produces → AI challenges → Human adjudicates（人先产出 → AI 挑战 → 人终审裁决）
+
+**Produce your own judgment first**（先给出你自己的判断），then —— and only then —— call a skill. AI never gets the first word, and it never gets the last word either：**you do**（第一句话和最后一句话都归你）。
+:::
+
+### How You Are Graded 评分标准
+
+| Dimension 评审维度 | What we look for 关注点 |
+|---|---|
+| **Question quality** 提问质量 | Are your questions precise, pointed and layered？问题是否具体、切中要害，能否层层追问 |
+| **Assumption checking** 假设审查 | Do you probe the model's —— and your own —— hidden assumptions？是否主动追问模型与自己的隐含假设 |
+| **Response to challenge** 回应质量 | When AI pushes back, do you revise, rebut, or capitulate？面对 AI 反驳时，是修正、反驳，还是无原则接受 |
+| **Final adjudication** 终审裁决 | Is your final judgment reasoned —— can you say *why* you accepted or rejected AI？最终判断是否有据，能否说清接受／拒绝 AI 的理由 |
+| **Transcript authenticity** 记录真实性 | Are the transcripts complete and unedited？聊天记录是否完整、真实（篡改记录按学术不端处理） |
+
+**You are not graded on whether your answer is "correct"**（不评答案对错），but on the quality of your questioning and reasoning（只看提问与思辨质量）。
+
+### Part 0 · Setup & Smoke Test 安装与冒烟测试
+
+1. **Install the nine skills**（安装九个技能）。Send the one-shot install prompt（Gitee clone with a GitHub fallback）on the [AI Skills](../skills.qmd) page to Trae Code / Trae SOLO /Doubao (豆包) / WorkBuddy / Claude Code / Codex / Deepseek Harness.
+2. **Test**（测试）。Run the command below and confirm the skill **only asks questions —— it must never hand you an answer**：
+
+```text
+/socratic-mirror 我认为经济学理论只是象牙塔，对实际管理决策没什么用。
+```
+
+3. **Keep this transcript**（保留这段记录）—— it is the first entry of your submission.
+
+### The Seven Stations 七个站点
+
+Work through all seven stations in order. In each one：**produce your own answer first**，then call the skill，then write down what you finally decided —— and why.
+
+#### Station 1 · The Scope — Where Does This Map End？（边界：这张地图的尽头在哪？）
+
+**Concept**（概念）：the scope of managerial economics（管理经济学的边界）· **Skill**（技能）：`/theory-into-practice`
+
+**Step 1 · Produce 先产出** —— In three or four sentences, state **where managerial economics stops** and where neighbouring fields begin —— strategy（战略）、corporate finance（公司金融）、behavioural economics（行为经济学）、data science（数据科学）。Make it a claim，not a survey.
+
+**Step 2 · Challenge 让 AI 挑战**
+
+```text
+/theory-into-practice 我的判断：管理经济学 = 微观经济学 + 产业组织，其边界止于企业内部的资源、价格与产量决策。请压力测试这个定义：在 AI 动态定价、平台双边市场、行为金融三类场景下，它是否仍然成立？会在哪里失灵？
+```
+
+**Step 3 · Adjudicate 终审** —— Name **one place** where your definition broke under pressure. Did you move the boundary，or hold it —— and why？
+
+::: {.callout-tip appearance="minimal" icon="false"}
+## A model exchange 示例对照
+
+**Weak 弱** —— AI becomes an answer machine（AI 变成答案机）：
+
+> **You**：管理经济学的边界是什么？
+> **AI**：管理经济学研究的是……（给出一段教科书定义）
+>
+> You learned nothing. The AI produced；you merely received.
+
+**Strong 强** —— you produce，AI challenges，you adjudicate（你产出 → AI 挑战 → 你终审）：
+
+> **You (produce 产出)**：我的判断是，它的边界止于企业内部的资源与定价决策。
+> **You → AI**：`/theory-into-practice 请压力测试上面这条边界……`
+> **AI (challenge 挑战)**：在 AI 动态定价场景下，算法本身是否也是一种「生产要素」？如果定价能力可以向外部 SaaS 购买，这条边界还画在企业内部吗？
+> **You (adjudicate 终审)**：我接受「边界随技术而移动」这一点，但我仍然坚持……因为……
+:::
+
+#### Station 2 · Why Firms？ Why Not Just Markets？（为什么要有企业？为什么不全都交给市场？）
+
+**Concept**：why firms exist（企业为何存在）· **Skill**：`/devils-advocate`
+
+**Step 1 · Produce 先产出** —— Answer in your own words：**why do firms exist at all？** Then list at least five **other names for the firm**（企业的其他名称）—— e.g. firm（厂商）、enterprise（企业）、company（公司）、corporation（股份公司）、business（商号）、profit organization（营利组织）、going concern（持续经营体）—— and say what each name *emphasises*.
+
+**Step 2 · Challenge 让 AI 挑战**
+
+```text
+/devils-advocate 我的判断：企业之所以存在，是因为使用市场本身有交易成本，把交易内部化更便宜。
+```
+
+**Extra probe 追加一问** —— "A platform such as Uber or 京东 —— is it a firm，a market，or both？ Exactly where does its boundary lie？"（平台是「企业」「市场」还是二者兼有？边界究竟画在哪？）
+
+**Step 3 · Adjudicate 终审** —— Did the advocate change your answer？ Defend or revise it.
+
+#### Station 3 · The Goal of the Firm — and What It Means for Society（企业目标及其对社会福祉的意义）
+
+**Concept**：the goal of the firm（企业目标）· **Skill**：`/case-challenge`
+
+**Step 1 · Produce 先产出** —— Pick one case —— a hospital（医院），a university（大学），or a listed company（上市公司）。State your judgment：should its goal be **profit maximisation**（利润最大化）、**firm value**（企业价值），or **stakeholder welfare**（利益相关者福祉）？
+
+**Step 2 · Challenge 让 AI 挑战**
+
+```text
+/case-challenge 某三甲医院以「最大化利润」为目标 ｜ 我的判断：医院应以患者健康产出为目标，利润只是约束条件。
+```
+
+**Step 3 · Adjudicate 终审** —— What is the **strongest link** and the **weakest link** in your judgment？ What is the opportunity cost of your choice —— and who bears it？
+
+#### Station 4 · The Economic Man vs. the Real Human（经济人与真人）
+
+**Concept**：homo economicus vs. the real human（经济人与真人）· **Skill**：`/socratic-mirror`
+
+**Step 1 · Produce 先产出** —— Keep a **one-day log**（一日记录）of three of your own decisions：which were purely self-interested（自利），and which were driven by fairness（公平）、sympathy（同情共感）or habit（习惯）？ Then write your preliminary self-portrait.
+
+**Step 2 · Challenge 让 AI 挑战**
+
+```text
+/socratic-mirror 我认为自己在做大多数决策时，基本是一个理性的经济人。
+```
+
+**Step 3 · Adjudicate 终审** —— The mirror asks only questions. After it does，**revise your self-portrait** and say which question stung most.
+
+#### Station 5 · Opportunity Cost — Definition，Critique，and a Number（机会成本：定义、批评与一个数字）
+
+**Concept**：opportunity cost（机会成本）· **Skills**：`/sanity-checker` + `/great-dialogue`
+
+**Step 1 · Produce 先产出** —— （a）Give the **textbook definition**（教科书定义）in one sentence；（b）build a **concrete numerical example**（具体数值例），e.g. you quit a job paying ¥200,000 a year to do an MBA costing ¥300,000 in tuition plus ¥80,000 in living costs —— what is the opportunity cost of year one？（c）write your own **critique**（批评）。
+
+**Step 2 · Challenge 让 AI 挑战**
+
+```text
+/sanity-checker 读 MBA 第一年的机会成本 = 学费 30 万 + 放弃的工资 20 万 + 生活费 8 万 = 58 万。请独立复算，核对单位与假设，并检查符号方向与遗漏项。
+```
+
+```text
+/great-dialogue 机会成本：从教科书的客观定义，到 Knight 追问「这个机会是谁的？」、Buchanan《成本与选择》主张「成本是主观的、事前的、由决策者承担」，再到 Thaler 的行为视角。请梳理这条演变脉络，并指出教科书定义可能存在的漏洞。
+```
+
+**Step 3 · Adjudicate 终审** —— What does the textbook definition get *wrong*，and does it matter for a practising manager？
+
+#### Station 6 · Measuring Firm Value — SOE vs. Private（如何衡量企业价值：国企与民企）
+
+**Concept**：firm value（企业价值）· **Skill**：`/sector-analyst`
+
+**Step 1 · Produce 先产出** —— Put $V = \sum_{t=1}^{T} \frac{\pi_t}{(1+r)^t}$ into words. Then give your preliminary answer：for a **state-owned enterprise**（国有企业），who are the real **principals**（委托人），and is "firm value" even the objective？
+
+**Step 2 · Challenge 让 AI 挑战**
+
+```text
+/sector-analyst 中国国有企业与民营企业的企业价值衡量。请补充制度背景：国资委、政策性负担、软预算约束、混合所有制改革，并说明国企目标多元化如何冲击「企业价值最大化」这一目标。
+```
+
+**Step 3 · Adjudicate 终审** —— Does the DCF formula even apply to an SOE？ If not，what would you change —— and what would you keep？
+
+#### Station 7 · The Principal–Agent Problem — in Yourself（委托代理问题：反躬自省）
+
+**Concept**：the principal–agent problem（委托代理问题）· **Skill**：`/decision-gym`
+
+**Step 1 · Produce 先产出** —— List the roles in which **you are the agent**（你是代理人）—— to your employer（雇主）、your parents（父母）、your professor（老师）、your team（团队）。What do you hide，and why？ Then sketch **one remedy**（一个解决方案）。
+
+**Step 2 · Challenge 让 AI 挑战**
+
+```text
+/decision-gym 场景：我是某公司的中层管理者（代理人），委托人（股东）看不到我的努力。请用「限时 + 角色信息卡 + 即时揭晓」的方式，让我在三种薪酬方案（高固定薪／股权激励／长期价值奖金）中做一次决策彩排。
+```
+
+**Step 3 · Adjudicate 终审** —— Which remedy would **you** accept as the *principal* —— and which as the *agent*？ Where do the two answers differ，and what does that tell you？
+
+### Bug Hunt — Encouraged，with a Bounty（捉虫：鼓励参与，设有悬赏）
+
+While running the stations，watch for a skill that **fails you** —— a wrong inference，a missed nuance，or worse，a skill that quietly *hands you an answer* instead of challenging you. When that happens：
+
+1. Open an **Issue** on the course repository（Gitee is fastest；a GitHub link is on the [AI Skills](../skills.qmd) page）。
+2. Use the required template（标题以 `[Skill-Bug]` 或 `[Skill-建议]` 开头）：skill name → how to reproduce → expected behaviour → actual behaviour → suggested fix。
+3. Accepted reports earn **RMB 10–100** plus a **course-credit bonus**。
+
+This is **encouraged，not required**（鼓励，非强制）—— but a course whose materials improve *because of you* is a course you will remember.
+
+在跑站点时留意**失灵**的技能 —— 推理错误、遗漏要点，或者更糟：本该挑战你、却悄悄把答案递给你的技能。发现后请到课程仓库提交 Issue（模板：技能名称 → 复现过程 → 期望行为 → 实际行为 → 改进建议）。被采纳者可获 **10–100 元**现金奖励与**课程加分**。此项**鼓励参与，不作强制**。
+
+### Reflection Log 反思日志
+
+Finish with `/reflection-log 生成`，then answer in writing：
+
+1. For **each station**，what did you **finally accept or reject** from AI，and why？（每一站，你最终接受／拒绝了 AI 的什么，理由是什么？）
+2. Which skill **pushed you hardest** —— and which felt weakest？（哪个技能逼得你最狠？哪个最无力？）
+3. Where did AI quietly try to **give you an answer**？ How did you resist？（AI 在哪里想直接把答案给你？你如何抵抗？）
+4. If you had to bet，**which L1 concept is still unclear** —— and what would you ask in class？（哪一个 L1 概念你仍然不清楚？课堂上你会问什么？）
+
+### Submission 提交要求
+
+- **Due**（截止）：October 29, 2026，by 23:59。
+- Export each chat as an **unedited Markdown transcript**（未编辑的 Markdown 聊天记录，含 AI 的完整回答）—— do not polish，trim，or rewrite it。
+- Together with your `/reflection-log` summary，submit them as announced in class（提交方式以课堂通知为准）。
+- **Tampering with transcripts is treated as academic misconduct**（篡改记录按学术不端处理）。
